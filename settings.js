@@ -18,7 +18,7 @@ global.donasi = {
 }
 global.packname = 'Hinata-Md'
 global.author = 'WhatsApp Bot'
-global.sessionName = 'session'
+global.sessionName = 'haori'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
